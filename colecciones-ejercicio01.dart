@@ -4,7 +4,9 @@ main(List<String> arguments) {
   colors = ['blue','pink','white'];
 
   //agregar
-colors.add('green');
-
-  print (colors);
+  colors.add('green');
+    print (colors);
+    //elimina el ultimo de la lista
+  colors.removeLast();
+    print (colors);
 }
