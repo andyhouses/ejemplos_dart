@@ -1,0 +1,19 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "colorize",
+      "rootUri": "file:///Users/sandovaledwin/.pub-cache/hosted/pub.dartlang.org/colorize-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "colors",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-05-24T21:13:31.357454Z",
+  "generator": "pub",
+  "generatorVersion": "2.8.2"
+}
