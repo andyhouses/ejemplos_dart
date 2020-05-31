@@ -1,0 +1,35 @@
+.bandera-completa {
+  background-color: red;
+  width: 25%;
+  height: 25%;
+  float: right;
+}
+.bandera {
+  background-color: gray;
+  width: 25%;
+  height: 25%;
+  float: right;
+}
+.otra-bandera {
+  background-color: yellow;
+  width: 25%;
+  height: 25%;
+  float: right;
+}
+/**
+.seccion-verde {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+}
+.seccion-blanca {
+  background-color: white;
+  width: 100px;
+  height: 100px;
+}
+.seccion-roja {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+**/
